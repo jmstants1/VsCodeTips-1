@@ -16,7 +16,7 @@ const E = 2.71828;
 }
 
 export function min(firstNumber, secondNumber) {
-  // returns the smaller of a set of supplied numeric expressions..
+  // returns the smaller of a set of supplied numeric expressions.
 
   if (firstNumber < secondNumber) {
     return firstNumber;
